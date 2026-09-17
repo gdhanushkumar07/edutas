@@ -1,0 +1,7 @@
+{
+  "name": "EDUTAS - Education & Migration",
+  "description": "Expert Australian education and migration consultancy helping international students navigate courses, university admissions, student visas, and career pathways in Australia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
